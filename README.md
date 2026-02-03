@@ -65,6 +65,7 @@ adb devices
 ▶️ Usage
 chmod +x android.py
 python3 android.py
+or ./android.py
 
 
 🔐 Security Disclaimer
