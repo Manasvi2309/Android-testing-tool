@@ -67,9 +67,6 @@ chmod +x android.py
 python3 android.py
 
 
-
-<img width="1918" height="793" alt="Screenshot_2026-02-03_03_10_03" src="https://github.com/user-attachments/assets/fb1fb9b5-f7ad-44e0-80dd-0866b659d18f" />
-
 🔐 Security Disclaimer
 
 This tool is intended only for educational and authorized security testing.
